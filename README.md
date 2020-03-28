@@ -1,4 +1,4 @@
-# Be The Hero
+# Be The Hero | [Check out the live version clicking here](https://nostalgic-hoover-2136f1.netlify.com/)
 
 ![web gif](/screenshots/web.gif)
 ![mobile screenshots](/screenshots/beTheHeroScreenshots.png)
@@ -12,3 +12,5 @@
 **Website**: The website frontend was built using ReactJS.
 
 **Mobile App**: The app was built using React Native and Expo.
+
+**Deploy**: The deploy was done using two services, one service to deploy the backend and another to deploy the frontend. I used Heroku to deploy the backend due to having a good free plan for small applications like this. For the frontend, I wanted to test a service called Netlify due to the ease of using it and the free plan they also offer.
