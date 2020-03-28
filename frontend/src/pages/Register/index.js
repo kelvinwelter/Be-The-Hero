@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Input from 'react-phone-number-input/input'
 import { Link, useHistory } from 'react-router-dom';
 import { FiArrowLeft } from 'react-icons/fi';
 
@@ -66,10 +67,11 @@ export default function Register() {
                         value={email}
                         onChange={e => setEmail(e.target.value)}
                     />
-                    <input 
+                    <Input
+                        country="BR" 
                         placeholder="WhatsApp"
                         value={whatsapp}
-                        onChange={e => setWhatsapp(e.target.value)}
+                        onChange={e => setWhatsapp(e)}
                     />
 
                     <div className="input-group">
@@ -82,7 +84,8 @@ export default function Register() {
                             placeholder="UF"
                             style={{ width: 80 }}
                             value={uf}
-                            onChange={e => setUf(e.target.value)}
+                            maxLength="2"
+                            onChange={e => setUf(e.target.value.toUpperCase())}
                         />
                     </div>
 
