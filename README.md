@@ -1,5 +1,7 @@
 # Be The Hero
 
+![web gif](/screenshots/web.gif)
+
 ### :speaker: This project was built on the basis and total reference of the classes made available at Omnistack 11.0 Week made available by ![RocketSeat](https://rocketseat.com.br/)
 
 ## :straight_ruler: Techs used in the project
