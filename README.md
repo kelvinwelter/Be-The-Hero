@@ -1,9 +1,47 @@
-# Be The Hero | [Check out the live version clicking here](https://nostalgic-hoover-2136f1.netlify.com/)
+# Be The Hero | Check out the live version [clicking here](https://nostalgic-hoover-2136f1.netlify.com/)
+> This application allows NGOs, after registering, to register cases using the WEB platform. These cases are listed through the mobile application for users who would like to contribute some value. If the user is interested in helping, he can contact the NGO via email or whatsapp.
 
-![web gif](/screenshots/web.gif)
-![mobile screenshots](/screenshots/beTheHeroScreenshots.png)
+## 🔥 Highlights
+<table>
+	<tr>
+		<th width="100%">
+			Web Interface<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/kelvinwelter/Be-The-Hero/master/screenshots/web.gif">
+		</td>
+	</tr>
+</table>
 
-### :speaker: This project was built on the basis and total reference of the classes made available at Omnistack 11.0 Week made available by ![RocketSeat](https://rocketseat.com.br/)
+<table>
+	<tr>
+		<th width="33.3%">
+			App splash screen<br>
+		</th>
+		<th width="33.3%">
+			App incident list
+		</th>
+    <th width="33.3%">
+			App incident detail
+		</th>
+	</tr>
+	<tr><!-- Prevent zebra stripes --></tr>
+	<tr>
+		<td>
+			<img width="618" src="https://raw.githubusercontent.com/kelvinwelter/Be-The-Hero/master/screenshots/splashScreen.jpg">
+		</td>
+		<td>
+			<img width="618" src="https://raw.githubusercontent.com/kelvinwelter/Be-The-Hero/master/screenshots/incidentList.jpg">
+		</td>
+    <td>
+			<img width="618" src="https://raw.githubusercontent.com/kelvinwelter/Be-The-Hero/master/screenshots/incidentDetail.jpg">
+		</td>
+	</tr>
+</table>
+
+### :sound: This project was built on the basis and total reference of the classes made available at Omnistack 11.0 Week made available by [RocketSeat](https://rocketseat.com.br/)
 
 ## :straight_ruler: Techs used in the project
 
