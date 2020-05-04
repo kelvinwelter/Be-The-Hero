@@ -1,5 +1,5 @@
 # Be The Hero | Check out the live version [clicking here](https://nostalgic-hoover-2136f1.netlify.com/)
-> This application allows NGOs, after registering, to register cases using the WEB platform. These cases are listed through the mobile application for users who would like to contribute some value. If the user is interested in helping, he can contact the NGO via email or whatsapp.
+> This application allows NGOs (Non Governmental Organizations), after registering, to register cases using the WEB platform. These cases are listed through the mobile application for users who would like to contribute some value. If the user is interested in helping, he can contact the NGO via email or whatsapp.
 
 ## 🔥 Highlights
 <table>
